@@ -56,10 +56,10 @@ export default function SearchBox() {
 
       {/* فیلد جستجو با ترنزیشن از بالا */}
       <div
-        className={` top-0 left-0 w-full px-2 transition-all duration-300 z-10 ${isOpen
-            ? "opacity-100 translate-y-12"
-            : "opacity-0 -translate-y-10 pointer-events-none"
-          }`}
+         className={`fixed top-0 left-0 w-full px-2 transition-all duration-300 z-50 ${isOpen
+          ? "opacity-100 translate-y-12"
+          : "opacity-0 -translate-y-10 pointer-events-none"
+        }`}
       >
         <div className="bg-gray-300 rounded-md shadow-md border border-gray-300 p-3 flex items-center gap-2">
           <input

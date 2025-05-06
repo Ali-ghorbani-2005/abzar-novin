@@ -7,7 +7,7 @@ import Sidebar from "./sidebar";
 export default function Header() {
     return (
         <>
-            <div className="flex shadow shadow-gray-400"> 
+            <div className="flex shadow shadow-gray-400 h-20"> 
 
                 <div>
                     <CartButton/>
