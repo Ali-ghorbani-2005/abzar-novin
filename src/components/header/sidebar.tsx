@@ -36,7 +36,15 @@ export default function Sidebar() {
           </button>
         </div>
 
-        <ul className="p-4 space-y-4">
+        <ul className="p-4 space-y-4"> 
+          <div className='flex gap-10 border-b w-72 -ml-2'>
+            <div>
+              <button><img src="img/icons/user.png" alt="user" className='w-11' /></button>
+            </div> 
+            <div>
+              <button><img src="img/icons/heart.png" alt="user" className='w-11'  /></button>
+            </div> 
+          </div>
           <li><a href="#" className="text-gray-700 hover:text-yellow-600">صفحه اصلی</a></li>
           <li><a href="#" className="text-gray-700 hover:text-yellow-600">محصولات</a></li>
           <li><a href="#" className="text-gray-700 hover:text-yellow-600">درباره ما</a></li>
