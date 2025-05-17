@@ -10,7 +10,7 @@
     ],
     "categories": [
         {
-            "id": 1,
+            "id": "1",
             "name": "ابزار برقی",
             "product": [
                 {
@@ -19,7 +19,7 @@
                     "price": 20500000,
                     "description": "  دارای گیربکس فلزی - کنترل سرعت الکترونیک - ضمانت 12 ماه ( شرکت ابزار سپه ) - دارای کیف حمل ",
                     "brand": "دیوالت  Dewalt",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id1.jpg"
                 },
                 {
                     "id": 2,
@@ -27,7 +27,7 @@
                     "price": 5398000,
                     "description": "دریل گیربکسی توسن مدل 0081D-PLUS دارای یک موتور 1050 وات همراه با گیربکس دوحالته است و از یک سه‌نظام آچارخور برای استفاده از انواع مته و خاصیت چکشی برای سوراخ کردن مصالح ساختمانی بهره می‌برد",
                     "brand": "توسن - Tosan",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id2.jpg"
                 },
                 {
                     "id": 3,
@@ -35,7 +35,7 @@
                     "price": 5092000,
                     "description": "دارای کلید گردان روی شستی اصلی برای تنظیم سرعت گردش مجهز به چرخ دنده‌های فلزی برای دوام بیشتر دستگاه دسته کمکی دارای استاندارد CE اروپا و GS آلمان دارای دسته کمکی امکان چرخش 360 درجه ای سیستم چرخ",
                     "brand": "کرون - Crown",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id3.jpg"
                 }
             ]
         },
@@ -49,7 +49,7 @@
                     "price": 2168000,
                     "description": "محصولی مقاوم در برابر ضربه و فشار",
                     "brand": "VBW-وی بی دبلیو",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id4.jpg"
                 },
                 {
                     "id": 5,
@@ -57,7 +57,7 @@
                     "price": 2168000,
                     "description": "محصولی مقاوم در برابر ضربه و فشار",
                     "brand": "VBW-وی بی دبلیو",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id5.jpg"
                 },
                 {
                     "id": 6,
@@ -65,7 +65,7 @@
                     "price": 529000,
                     "description": "محصولی مقاوم در برابر ضربه و فشار",
                     "brand": "کنزاکس - Kenzax",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id6.jpg"
                 },
                 {
                     "id": 7,
@@ -73,7 +73,7 @@
                     "price": 248000,
                     "description": "محصولی مقاوم در برابر ضربه و فشار",
                     "brand": "کنزاکس - Kenzax",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id7.jpg"
                 }
             ]
         },
@@ -87,7 +87,7 @@
                     "price": "14850000",
                     "description": "قدرت بالا: به دلیل استفاده از هوای فشرده، گشتاور بالایی دارد و می‌تواند پیچ‌های سفت و محکم را به راحتی باز یا بسته کند",
                     "brand": "مایتی سون - mighty-seven",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id8.jpg"
                 },
                 {
                     "id": 9,
@@ -95,7 +95,7 @@
                     "price": "38600000",
                     "description": "قدرت بالا: به دلیل استفاده از هوای فشرده، گشتاور بالایی دارد و می‌تواند پیچ‌های سفت و محکم را به راحتی باز یا بسته کند",
                     "brand": "مایتی سون - mighty-seven",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id9.jpg"
                 },
                 {
                     "id": 10,
@@ -103,7 +103,7 @@
                     "price": "4248000",
                     "description": "قدرت بالا: به دلیل استفاده از هوای فشرده، گشتاور بالایی دارد و می‌تواند پیچ‌های سفت و محکم را به راحتی باز یا بسته کند",
                     "brand": "رونیکس - RONIX",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id10.jpg"
                 },
                 {
                     "id": 11,
@@ -111,12 +111,12 @@
                     "price": "7600000 ",
                     "description": "قدرت بالا: به دلیل استفاده از هوای فشرده، گشتاور بالایی دارد و می‌تواند پیچ‌های سفت و محکم را به راحتی باز یا بسته کند",
                     "brand": "رونیکس - RONIX",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id11.jpg"
                 }
             ]
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "ابزار بنزینی ",
             "product": [
                 {
@@ -125,7 +125,7 @@
                     "price": "37782000 ",
                     "description": "دارای موتور تک سیلندر-4 زمانه-هوا خنک و دارای قدرت 3500 وات 6/5 اسب بخار",
                     "brand": "رونیکس - RONIX",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id12.jpg"
                 },
                 {
                     "id": 13,
@@ -141,7 +141,7 @@
                     "price": "5198000",
                     "description": "دارای توان 1200 وات",
                     "brand": "رونیکس - RONIX ",
-                    "image": ""
+                    "image": "https://abzarnovin.storage.c2.liara.space/id14.png"
                 }
             ]
         }

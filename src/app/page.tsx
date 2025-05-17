@@ -1,3 +1,4 @@
+import DrillProductsSlider from "@/components/categoryProducts/drillProductsSlider";
 import Education from "@/components/education/education";
 import Footer from "@/components/footer/footer";
 import Header from "@/components/header/header";
@@ -15,17 +16,21 @@ export default function Home() {
         <PromoSlider />
       </div>
 
-      <div className="mt-10">
-        <PromotionBanner />
-      </div> 
+      <div>
+        <DrillProductsSlider />
+      </div>
 
       <div className="mt-10">
-        <Education/>
-      </div> 
+        <PromotionBanner />
+      </div>
+
+      <div className="mt-10">
+        <Education />
+      </div>
 
 
       <div className="mt-5">
-        <Footer/>
+        <Footer />
       </div>
     </>
   );
