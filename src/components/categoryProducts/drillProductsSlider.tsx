@@ -28,8 +28,42 @@ const DrillProductsSlider = () => {
   }, [categoryId]);
 
   if (loading) {
-    return <p>در حال بارگذاری...</p>;
+    return ( 
+      <div className="flex gap-6 ml-3 mt-4">
+      <div className="border border-gray-300 p-4 rounded-lg shadow-lg w-48 animate-pulse">
+        <div className="w-full h-40 bg-gray-200 rounded"></div>
+
+        <div className="mt-4 space-y-3">
+          <div className="h-4 bg-gray-200 rounded w-3/4"></div>
+
+          <div className="flex justify-between items-center mt-2">
+            <div className="h-4 bg-gray-200 rounded w-8"></div>
+            <div className="h-4 bg-gray-200 rounded w-12"></div>
+          </div>
+
+          <div className="h-10 bg-gray-300 rounded mt-4"></div>
+        </div>
+      </div>  
+
+      <div className="border border-gray-300 p-4 rounded-lg shadow-lg w-48 animate-pulse">
+        <div className="w-full h-40 bg-gray-200 rounded"></div>
+
+        <div className="mt-4 space-y-3">
+          <div className="h-4 bg-gray-200 rounded w-3/4"></div>
+
+          <div className="flex justify-between items-center mt-2">
+            <div className="h-4 bg-gray-200 rounded w-8"></div>
+            <div className="h-4 bg-gray-200 rounded w-12"></div>
+          </div>
+
+          <div className="h-10 bg-gray-300 rounded mt-4"></div>
+        </div>
+      </div> 
+      </div>
+
+    );
   }
+
 
   if (error) {
     return <p>{error}</p>;

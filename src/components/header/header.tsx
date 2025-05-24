@@ -16,14 +16,14 @@ export default function Header() {
              <div>
              <SearchBox/>
              </div>  
-
-
-             <div>
-                <Sidebar/>
-             </div>  
+  
 
              <div>
                 <BrandName/>
+             </div> 
+
+             <div>
+                <Sidebar/>
              </div>
 
             </div>
