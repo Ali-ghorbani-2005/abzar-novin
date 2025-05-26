@@ -72,7 +72,7 @@ const DrillProductsSlider = () => {
 
   return (
     <div className="p-4">
-      <h2 className="text-xl font-bold mb-4 text-right">دریل</h2>
+      <h2 className="text-lg font-bold mb-4 text-right " style={{ fontFamily: 'Gulzar' }}>دریل</h2>
       <Swiper spaceBetween={16} slidesPerView={2} loop={true}>
         {products.map((product) => (
           <SwiperSlide key={product.id}>

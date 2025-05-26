@@ -28,8 +28,8 @@ export default function Footer() {
                     </div>
 
                     <div className="flex flex-col items-center space-y-4">
-                        <img src="img/icons/namad.jpg" alt="نماد" className="w-32 h-32" />
-                        <img src="img/icons/etehadie.jpg" alt="اتحادیه" className="w-32 h-32" />
+                        <img src="/img/icons/namad.jpg" alt="نماد" className="w-32 h-32" />
+                        <img src="/img/icons/etehadie.jpg" alt="اتحادیه" className="w-32 h-32" />
                     </div>
 
                     <div>

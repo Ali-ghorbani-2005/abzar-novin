@@ -9,9 +9,7 @@ import PromotionBanner from "@/components/promotions/promotionBanner";
 export default function Home() {
   return (
     <>
-      <div className="">
-        <Header />
-      </div>
+      
 
       <div className="mt-5">
         <PromoSlider />
@@ -34,9 +32,7 @@ export default function Home() {
       </div>
 
 
-      <div className="mt-5">
-        <Footer />
-      </div>
+    
     </>
   );
 }

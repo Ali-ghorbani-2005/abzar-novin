@@ -70,7 +70,7 @@ const HandToolsProductSlider = () => {
 
   return (
     <div className="p-4">
-      <h2 className="text-xl font-bold mb-4 text-right">ابزار دستی </h2>
+      <h2 className="text-lg font-bold mb-4 text-right" style={{ fontFamily: 'Gulzar' }}>ابزار دستی </h2>
       <Swiper spaceBetween={16} slidesPerView={2} loop={true}>
         {products.map((product) => (
           <SwiperSlide key={product.id}>
