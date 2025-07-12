@@ -16,14 +16,16 @@ export default function Sidebar() {
   ]
 
   return (
-    <>
-      {/* دکمه منو */}
+    <> 
+      {/* دکمه منو */} 
+      <div className='md:ml-98'>
       <button
         onClick={() => setIsOpen(true)}
         className="ml-20 mt-2 bg-yellow-400 text-white px-4 py-2 rounded shadow"
       >
         <img src="/img/icons/menu.png" alt="menu" className="w-7" />
-      </button>
+      </button> 
+      </div>
 
       {/* پس‌زمینه محو */}
       <AnimatePresence>

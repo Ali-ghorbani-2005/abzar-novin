@@ -107,8 +107,8 @@ export default function Singup() {
             
           </form> 
           <div className="flex justify-center items-center mt-5">   
-            <Link href='/singup'>
-          <p className="border-b border-blue-800 text-blue-800 hover:text-blue-900">ثبت نام نکرده اید ؟ ثبت نام کنید</p>  
+            <Link href='/login'>
+          <p className="border-b border-blue-800 text-blue-800 hover:text-blue-900">ثبت نام کرده اید ؟ وارد شوید </p>  
           </Link>
         </div>
         </div> 

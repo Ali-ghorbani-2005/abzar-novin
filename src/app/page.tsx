@@ -1,5 +1,6 @@
 import DrillProductsSlider from "@/components/categoryProducts/drillProductsSlider";
 import HandToolsProductSlider from "@/components/categoryProducts/handToolsProductSlider";
+import DesktopSearchBox from "@/components/desktopSearchBox/desktopSearchBox";
 import Education from "@/components/education/education";
 import Footer from "@/components/footer/footer";
 import Header from "@/components/header/header";
@@ -10,8 +11,12 @@ export default function Home() {
   return (
     <>
       
+      
+      <div>
+        <DesktopSearchBox/>
+      </div>
 
-      <div className="mt-5">
+      <div className="">
         <PromoSlider />
       </div>
 

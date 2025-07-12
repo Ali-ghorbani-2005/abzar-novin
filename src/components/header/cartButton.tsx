@@ -34,7 +34,7 @@ export default function CartButton() {
   const { totalUniqueItems } = useCart();
 
   return (
-    <div className="relative mt-2 ml-2">
+    <div className="relative mt-2 ml-2 md:ml-10">
       <Link href="/cart">
         <button>
           <img src="/img/icons/cart.png" alt="cart" className="w-12" />
